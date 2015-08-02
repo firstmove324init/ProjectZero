@@ -1,4 +1,6 @@
-package com.firstmove.zeta;
+package com.firstmove.zeta.main;
+
+import com.firstmove.zeta.R;
 
 import android.app.Activity;
 import android.os.Bundle;
